@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sample-app",
+    "\\sample-app\\apps",
+    "\\sample-app\\apps\\store-app",
+    "\\sample-app\\apps\\store-app\\store-app",
+    "\\sample-app\\apps\\store-app\\store-app\\src",
+    "\\sample-app\\libs"
+  ],
+  "SelectedNode": "\\sample-app\\apps\\store-app\\store-app\\src\\main.ts",
+  "PreviewInSolutionExplorer": false
+}
